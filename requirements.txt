@@ -1,0 +1,14 @@
+sphinx_togglebutton
+ipython
+requests==2.28.1
+jupyter-book
+sphinx-book-theme
+sphinx
+matplotlib
+jupyter-sphinx
+sphinx_tabs
+sphinx-inline-tabs
+nbsphinx
+sphinxcontrib-bibtex
+MyST-NB
+nbconvert==7.2.9

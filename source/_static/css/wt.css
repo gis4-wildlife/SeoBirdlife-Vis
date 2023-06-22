@@ -1,0 +1,53 @@
+/*
+Fonts
+-----
+
+*/
+body {
+    font-size: 100%;
+}
+
+.card-img-top {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+/* Getting started index page */
+
+.intro-card {
+  background: #fff;
+  border-radius: 0;
+  padding: 30px 10px 10px 10px;
+  margin: 10px 0px;
+}
+
+.intro-card .card-text {
+  margin: 20px 0px;
+  /*min-height: 150px; */
+}
+
+.custom-button {
+  background-color: #d5d7e6;
+  color: #484848;
+  border: none;
+  padding: 6.5px;
+  text-decoration: none;
+  font-size: 1.1rem;
+  border-radius: 0.5rem;  
+}
+
+.custom-button:hover {
+  background-color: #4eb3f1;
+  color: #484848;
+}
+.custom-button a {
+  color: #484848;
+}
+
+.custom-button p {
+  margin-top: 0;
+  margin-bottom: 0rem;
+  color: #484848;
+}
