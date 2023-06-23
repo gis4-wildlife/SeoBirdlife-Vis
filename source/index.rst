@@ -23,7 +23,7 @@
     </div>
 
 
-.. tab:: ¿Para qué sirve esta documentación?
+.. tab:: ¿Para qué sirve esta web?
     
   .. raw:: html
 
@@ -32,15 +32,15 @@
       <p>
         <br>Esta web fue creada para instruir a los usuarios del "Wildlife Tracker" 
         sobre las capacidades de su visualización dinámica e interactiva.
-        Contiene tutoriales para entender cada función específica en la exploración 
-        visual de datos geoespaciales obtenidos con tags satellitales instalados en 
-        ejemplares de vida salvaje.      
+        Contiene tutoriales para entender cada función específica 
+        en la exploración visual y espacio-temporal de datos geoespaciales 
+        obtenidos con tags satellitales instalados en ejemplares de especies migratorias.    
       
       </p>
     </div>
 
 
-.. tab:: ¿Cómo uso esta web?
+.. tab:: ¿Cómo uso esta documentación?
 
   .. raw:: html
 
@@ -50,7 +50,7 @@
         <i>"Egyptian Vulture in Spain - Migra Program"</i> perteneciente a <a href="https://seo.org/" target="_blank">SEO BirdLife</a>. 
         Se recomienda interactuar con el web map siguiendo las indicaciones de cada 
         tutorial de manera que el usuario pueda descubrir 
-        las potencialidades del "Wildlife Tracker" y a aprender a usarlo 
+        las potencialidades del "Wildlife Tracker" y aprender a usarlo 
         para generar conocimiento en base a la exploracion visual de datos.<br>
 
       </p>
@@ -90,7 +90,9 @@
 
 .. container:: custom-button
 
-    `Egyptian Vultures Demo <https://www.gis4-wildlife.com/>`__
+  .. raw:: html
+
+    <a href="https://gis4-wildlife.github.io/SEOBirdLife-gallery/root/SEO_EgyptianVultureinSpain_8.html" target="_blank">Egyptian Vultures Demo</a>
 
 .. raw:: html
 
