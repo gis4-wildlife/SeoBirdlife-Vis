@@ -106,8 +106,8 @@
 
 .. toctree::
   :maxdepth: 2
-  :caption: 1. Visualización
-
+  :hidden:
+  
   module-1
 
 

@@ -1,8 +1,11 @@
+**Modulo 1. Visualización**
+-------------------------------------
+
 .. toctree::
    :maxdepth: 2
-   :caption: 1. Visualización
+   :caption: Tutoriales
 
-   tutorials/00-start
-   tutorials/01-play
-   tutorials/02-time
-   tutorials/03-hide
+   tutorials/01-start
+   tutorials/02-play
+   tutorials/03-time-window
+   tutorials/04-hide-timeslider
