@@ -65,7 +65,7 @@ pygments_style = 'sphinx'
 # a list of builtin themes.
 #
 html_theme = 'sphinx_book_theme'
-html_logo = '_static/seo-birdlife-logo.png'
+html_logo = '_static/seo-migra.png'
 html_title = "SeoBirdlife - GIS4 Wildlife"
 
 # navigation bar elements on left

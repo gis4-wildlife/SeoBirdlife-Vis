@@ -1,4 +1,4 @@
-**Modulo 2. Filtros**
+Modulo 2. Filtros
 -------------------------------------
 
 .. raw:: html
