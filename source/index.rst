@@ -1,28 +1,6 @@
 **Inicio** 
 ~~~~~~~~~~~~~~~~~~~~
 
-.. tab:: ¿Qué es el "Wildlife Tracker"?
-    
-  .. raw:: html
-
-    <style>
-        div.tabs {
-          width: 90%;
-          text-align: justify;
-            }
-    </style>
-
-    <div class='tabs'>
-      <p><br>
-        Es un framework para visualización geográfica y segmentación espacio-temporal 
-        de datos obtenidos con tags satelitales instalados en vida salvaje.
-        Tiene la capacidad de actualizar en tiempo real las localizaciones 
-        de tags activos y también puede ser desarrollado como un producto estático 
-        de visualizacion para tags que ya dejaron de enviar señales al satellite.    
-      </p>
-    </div>
-
-
 .. tab:: ¿Para qué sirve esta web?
     
   .. raw:: html
@@ -58,7 +36,27 @@
     
     </div>
 
+.. tab:: ¿Qué es el "Wildlife Tracker"?
+    
+  .. raw:: html
 
+    <style>
+        div.tabs {
+          width: 90%;
+          text-align: justify;
+            }
+    </style>
+
+    <div class='tabs'>
+      <p><br>
+        Es un framework para visualización geográfica y segmentación espacio-temporal 
+        de datos obtenidos con tags satelitales instalados en vida salvaje.
+        Tiene la capacidad de actualizar en tiempo real las localizaciones 
+        de tags activos y también puede ser desarrollado como un producto estático 
+        de visualizacion para tags que ya dejaron de enviar señales al satellite.    
+      </p>
+    </div>
+    
 .. raw:: html 
 
   <div class="container">
