@@ -38,6 +38,8 @@ extensions = [
     'IPython.sphinxext.ipython_console_highlighting',
     'IPython.sphinxext.ipython_directive',
     'myst_nb',
+    'sphinx.ext.intersphinx',
+    'sphinxcontrib.youtube',
     # 'jupyter_sphinx',
     # 'sphinx_tabs.tabs',
     "sphinx_inline_tabs",
